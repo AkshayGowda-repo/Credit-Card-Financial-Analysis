@@ -1,5 +1,5 @@
 # Credit_Card_Financial_Dashboard 
-Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTBlNzktNjVhZC00ODZiLTliM2ItODcxZDg0ZjY5ZDQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTBlNzktNjVhZC00ODZiLTliM2ItODcxZDg0ZjY5ZDQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)\
 This repository contains Power BI reports analyzing credit card transactions and customer data. The project involves importing data from Excel into PostgreSQL and creating Power BI dashboards to visualize key performance indicators (KPIs) and insights.
 
 # Tetch Stacks
